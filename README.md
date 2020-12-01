@@ -1,1 +1,1 @@
-# The-game
+This is a game of decision made with javascript if/else statements, just for practice. 
